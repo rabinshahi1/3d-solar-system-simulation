@@ -1,0 +1,74 @@
+{
+  "Sun": {
+    "name": "Sun",
+    "distance": 0,
+    "rotation_speed": 0.0,
+    "radius": 4.0,
+    "orbital_speed": 0,
+    "texture_path": "assets/textures/sun3.jpg"
+  },
+  "Mercury": {
+    "name": "Mercury",
+    "distance": 6.0,
+    "rotation_speed": 0.3,
+    "radius": 0.3,
+    "orbital_speed": 2.0,
+    "texture_path": "assets/textures/mercury_texture.jpg"
+  },
+  "Venus": {
+    "name": "Venus",
+    "distance": 7.5,
+    "rotation_speed": 0.2,
+    "radius": 0.5,
+    "orbital_speed": 1.5,
+    "texture_path": "assets/textures/venus_texture.jpg"
+  },
+  "Earth": {
+    "name": "Earth",
+    "distance": 9,
+    "rotation_speed": 0.3,
+    "radius": 0.6,
+    "orbital_speed": 1.0,
+    "texture_path": "assets/textures/earth_texture.jpg"
+  },
+  "Mars": {
+    "name": "Mars",
+    "distance": 11.5,
+    "rotation_speed": 0.25,
+    "radius": 0.5,
+    "orbital_speed": 0.8,
+    "texture_path": "assets/textures/mars_texture.jpg"
+  },
+  "Jupiter": {
+    "name": "Jupiter",
+    "distance": 18.0,
+    "rotation_speed": 0.4,
+    "radius": 1.5,
+    "orbital_speed": 0.4,
+    "texture_path": "assets/textures/jupiter_texture.jpg"
+  },
+  "Saturn": {
+    "name": "Saturn",
+    "distance": 24.0,
+    "rotation_speed": 0.35,
+    "radius": 0.75,
+    "orbital_speed": 0.3,
+    "texture_path": "assets/textures/saturn_texture.jpg"
+  },
+  "Uranus": {
+    "name": "Uranus",
+    "distance": 30.0,
+    "rotation_speed": 0.3,
+    "radius": 0.8,
+    "orbital_speed": 0.25,
+    "texture_path": "assets/textures/uranus_texture.jpg"
+  },
+  "Neptune": {
+    "name": "Neptune",
+    "distance": 37.0,
+    "rotation_speed": 0.3,
+    "radius": 0.83,
+    "orbital_speed": 0.2,
+    "texture_path": "assets/textures/neptune_texture.jpg"
+  }
+}

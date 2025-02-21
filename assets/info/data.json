@@ -1,0 +1,47 @@
+{
+    "Sun": {
+        "description": "The star at the center of the solar system.",
+        "facts": ["Contains 99.8% of the solar system's mass", "Source of light and heat for the planets"],
+        "satellites": 0
+    },
+    "Mercury": {
+        "description": "The smallest planet in the solar system.",
+        "facts": ["Closest to the Sun", "No moons", "Extreme temperature variations"],
+        "satellites": 0
+    },
+    "Venus": {
+        "description": "The second planet from the Sun, known for its thick atmosphere.",
+        "facts": ["Hotter than Mercury", "Has a thick atmosphere", "Rotates in the opposite direction of most planets"],
+        "satellites": 0
+    },
+    "Earth": {
+        "description": "Our home planet, the only known planet to support life.",
+        "facts": ["Has life", "The only planet known to support life", "Has one natural satellite, the Moon"],
+        "satellites": 1
+    },
+    "Mars": {
+        "description": "The Red Planet, known for its iron-rich soil.",
+        "facts": ["Home to the tallest volcano in the solar system, Olympus Mons", "Has the largest dust storms", "Possible past existence of liquid water"],
+        "satellites": 2
+    },
+    "Jupiter": {
+        "description": "The largest planet in the solar system, a gas giant.",
+        "facts": ["Has the Great Red Spot, a giant storm", "Has at least 79 known moons", "Strongest magnetic field of any planet"],
+        "satellites": 79
+    },
+    "Saturn": {
+        "description": "A gas giant known for its spectacular ring system.",
+        "facts": ["Has thousands of rings", "Less dense than water", "Has more than 80 known moons"],
+        "satellites": 82
+    },
+    "Uranus": {
+        "description": "An ice giant that rotates on its side.",
+        "facts": ["Has a bluish-green color due to methane in its atmosphere", "Coldest planet in the solar system", "Has faint rings"],
+        "satellites": 27
+    },
+    "Neptune": {
+        "description": "The farthest planet from the Sun, an ice giant.",
+        "facts": ["Has the strongest winds in the solar system", "Appears deep blue due to methane", "Has 14 known moons, including Triton"],
+        "satellites": 14
+    }
+}
